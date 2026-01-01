@@ -3,7 +3,7 @@
 > Building production-ready AI solutions with Azure Cognitive Services
 
 ## 👋 About Me
-[Your name] | AI-102 Certification Candidate | Azure AI Specialist
+[Chantel Chiloane] | AI-102 Certification Candidate | Azure AI Specialist
 
 ## 🚀 Live Projects
 
@@ -29,7 +29,7 @@
 
 ## 🏆 Certifications in Progress
 - **AI-102:** Azure AI Engineer Associate
-- **Target Completion:** [Your target date]
+- **Target Completion:** [january-2026]
 
 ## 📬 Contact
 - GitHub: [@yourusername](https://github.com/yourusername)
