@@ -1,0 +1,13 @@
+AI-102-Journey/
+├── 📁 notes/
+│   ├── cognitive-services/
+│   ├── computer-vision/
+│   ├── nlp/
+│   ├── knowledge-mining/
+│   └── exam-prep/
+├── 📁 labs/
+│   ├── official-microsoft/
+│   └── custom-implementations/
+├── 📁 code-samples/
+├── 📁 cheatsheets/
+└── 📁 projects/
