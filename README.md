@@ -32,5 +32,5 @@
 - **Target Completion:** [january-2026]
 
 ## 📬 Contact
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: (https://github.com/chantel2018)
+- LinkedIn: [(https://www.linkedin.com/in/chantel-chiloane/)]
